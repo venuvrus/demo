@@ -1,2 +1,12 @@
 this is another txt file 
 this is change in Branch-1
+
+working on git architecture and tokens
+
+we tryibg to add some text in one line 
+
+
+another line trying to remove the line or delete
+
+deleteeing the another line to see how the vcs will effect in the github
+
